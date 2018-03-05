@@ -1,0 +1,10 @@
+
+
+form {
+  background: linear-gradient(red, yellow);
+}
+
+legend{
+	font-size: 20px;
+	color: white;
+}
